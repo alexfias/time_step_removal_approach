@@ -1,5 +1,5 @@
 import pypsa
-from my_code import pre_process_data, post_process_data, modify_network
+from code import pre_process_data, post_process_data, modify_network
 
 def main():
     # Specify the path to the model
